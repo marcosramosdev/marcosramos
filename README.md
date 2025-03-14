@@ -1,5 +1,3 @@
-![Welcome Banner](https://i.imgur.com/Zr8PZJc.png)
-
 # 👋 Hey there! I'm Marcos Ramos!
 
 💻 **Fullstack Developer | React | Next.js | Node.js | Astro | Tailwind Css | Java Spring Boot**
